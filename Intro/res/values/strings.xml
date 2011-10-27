@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, IntroActivity!</string>
+    <string name="app_name">Intro</string>
+    <string name="randomText">Hiiiii Who is there</string>
+    <string name="button1">Button1</string>
+</resources>
