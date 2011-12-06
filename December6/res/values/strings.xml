@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Click on one of the button below!</string>
+    <string name="app_name">DialogBoxes</string>
+
+</resources>
